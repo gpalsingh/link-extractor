@@ -4,20 +4,11 @@ The code provided works behind `link-extractor.appspot.com <http://link-extracto
 
 Requirements
 ------------
-<<<<<<< HEAD
 **You need `Google App Engine SDK <https://cloud.google.com/appengine/downloads?hl=en>`_ if you want to edit this project.**
 
 Uses
 ----
 - Useful for getting embedded video links when on mobile / tablet when you can't "Inspect Element". 
-=======
-You need `Google App Engine SDK <https://cloud.google.com/appengine/downloads?hl=en>`_
- if you want to edit this project.
-
-Uses
-----
-- Useful for getting embedded video links when on mobile / tablet when you can't "Inspect Element"
->>>>>>> 2d6ac6920860a52d2571115679826cc344c935df
 - Quicker way than searching through code by hand.
 
 Limitations
