@@ -4,7 +4,7 @@ The code provided works behind `link-extractor.appspot.com <http://link-extracto
 
 Requirements
 ------------
-**You need `Google App Engine SDK <https://cloud.google.com/appengine/downloads?hl=en>`_ if you want to edit this project.**
+You need `Google App Engine SDK <https://cloud.google.com/appengine/downloads?hl=en>`_ if you want to edit this project.
 
 Uses
 ----
